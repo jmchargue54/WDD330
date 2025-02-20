@@ -1,0 +1,34 @@
+{
+  "posts": [
+    {
+      "id": "981f",
+      "title": "one",
+      "content": "first!"
+    },
+    {
+      "id": "1f65",
+      "title": "one",
+      "content": "first!"
+    },
+    {
+      "id": "03ed",
+      "title": "one",
+      "content": "first one!"
+    },
+    {
+      "id": "084a",
+      "title": "two",
+      "content": "second!"
+    },
+    {
+      "id": "8af3",
+      "title": "three",
+      "content": "third!"
+    },
+    {
+      "id": "271a",
+      "title": "four",
+      "content": "fourth!"
+    }
+  ]
+}
